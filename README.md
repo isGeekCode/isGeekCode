@@ -14,11 +14,11 @@
 
 ### 📌 Post
 <!-- BLOG-POST-LIST:START -->
+- [preview, canvas 위치 이동시키기](https://h1guitar.tistory.com/280)
 - [오토레이아웃, Anchor, IBDesignable, IBInspectable](https://h1guitar.tistory.com/278)
 - [앱 빌드설정 선택하기](https://h1guitar.tistory.com/277)
 - [홍드로이드님의 모각코 후기](https://h1guitar.tistory.com/276)
 - [maximumViewportInset cannot be larger than frame](https://h1guitar.tistory.com/275)
-- [SwiftLint 세부설정하기](https://h1guitar.tistory.com/274)
 <!-- BLOG-POST-LIST:END -->
 
 

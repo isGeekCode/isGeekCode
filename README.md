@@ -14,11 +14,11 @@
 
 ### 📌 Post
 <!-- BLOG-POST-LIST:START -->
+- [UserInterfaceState.xcuserState가 자꾸 떠요](https://h1guitar.tistory.com/282)
+- [git ignore 사용하기](https://h1guitar.tistory.com/281)
 - [preview, canvas 위치 이동시키기](https://h1guitar.tistory.com/280)
 - [오토레이아웃, Anchor, IBDesignable, IBInspectable](https://h1guitar.tistory.com/278)
 - [앱 빌드설정 선택하기](https://h1guitar.tistory.com/277)
-- [홍드로이드님의 모각코 후기](https://h1guitar.tistory.com/276)
-- [maximumViewportInset cannot be larger than frame](https://h1guitar.tistory.com/275)
 <!-- BLOG-POST-LIST:END -->
 
 

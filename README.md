@@ -14,11 +14,11 @@
 
 ### 📌 Post
 <!-- BLOG-POST-LIST:START -->
+- [WKWebView - Navigation Delegate함수](https://h1guitar.tistory.com/284)
 - [전통적인 MVC구조로 HTTP사용하기](https://h1guitar.tistory.com/283)
 - [UserInterfaceState.xcuserState가 자꾸 떠요](https://h1guitar.tistory.com/282)
 - [git ignore 사용하기](https://h1guitar.tistory.com/281)
 - [preview, canvas 위치 이동시키기](https://h1guitar.tistory.com/280)
-- [오토레이아웃, Anchor, IBDesignable, IBInspectable](https://h1guitar.tistory.com/278)
 <!-- BLOG-POST-LIST:END -->
 
 

@@ -14,11 +14,11 @@
 
 ### 📌 Post
 <!-- BLOG-POST-LIST:START -->
+- [간단한 MVVM구조 예제](https://h1guitar.tistory.com/289)
 - [연산프로퍼티 - 프로퍼티&lpar;2&rpar;](https://h1guitar.tistory.com/288)
 - [저장프로퍼티 - 프로퍼티&lpar;1&rpar;](https://h1guitar.tistory.com/287)
 - [앱과 웹간 소통방법&lpar;1&rpar;](https://h1guitar.tistory.com/286)
 - [여러가지 접근권한요청](https://h1guitar.tistory.com/285)
-- [WKWebView - Navigation Delegate함수](https://h1guitar.tistory.com/284)
 <!-- BLOG-POST-LIST:END -->
 
 

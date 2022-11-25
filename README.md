@@ -14,11 +14,11 @@
 
 ### 📌 Post
 <!-- BLOG-POST-LIST:START -->
+- [프로퍼티 옵저버&lpar;willSet / didSet&rpar; - 프로퍼티&lpar;2.5&rpar;](https://h1guitar.tistory.com/291)
 - [Date로 두 개의 시간차 구하기](https://h1guitar.tistory.com/290)
 - [간단한 MVVM구조 예제](https://h1guitar.tistory.com/289)
 - [연산프로퍼티 - 프로퍼티&lpar;2&rpar;](https://h1guitar.tistory.com/288)
 - [저장프로퍼티 - 프로퍼티&lpar;1&rpar;](https://h1guitar.tistory.com/287)
-- [앱과 웹간 소통방법&lpar;1&rpar;](https://h1guitar.tistory.com/286)
 <!-- BLOG-POST-LIST:END -->
 
 

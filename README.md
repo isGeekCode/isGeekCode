@@ -14,11 +14,11 @@
 
 ### 📌 Post
 <!-- BLOG-POST-LIST:START -->
+- [세로모드 고정](https://h1guitar.tistory.com/294)
 - [클로저 톺아보기](https://h1guitar.tistory.com/293)
 - [1급 객체](https://h1guitar.tistory.com/292)
 - [프로퍼티 옵저버&lpar;willSet / didSet&rpar; - 프로퍼티&lpar;2.5&rpar;](https://h1guitar.tistory.com/291)
 - [Date로 두 개의 시간차 구하기](https://h1guitar.tistory.com/290)
-- [간단한 MVVM구조 예제](https://h1guitar.tistory.com/289)
 <!-- BLOG-POST-LIST:END -->
 
 

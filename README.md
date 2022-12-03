@@ -4,8 +4,8 @@
 
 ### 📌 Tech Stack
 <p>
-    <img src="https://img.shields.io/badge/Swift-181717?style=flat-squaree&logo=Swift&logoColor=FC6D26"/>
-    <img src="https://img.shields.io/badge/Objc-181717?style=flat-squaree&logo=Swift&logoColor=FC6D26"/>
+    <img src="https://img.shields.io/badge/Swift-F2B437?style=flat-squaree&logo=Swift&logoColor=FC6D26"/>
+    <img src="https://img.shields.io/badge/Objc-F2B437?style=flat-squaree&logo=Swift&logoColor=FC6D26"/>
     <img src="https://img.shields.io/badge/Python-3766AB?flat-squaree&logo=Python&logoColor=black"/>
 <br>
     <img src="https://img.shields.io/badge/Lottie-1AB394?style=flat-squaree&logo=Swift&logoColor=black"/>

@@ -4,10 +4,9 @@
 
 ### 📌 Tech Stack
 <p>
-    <img src="https://img.shields.io/badge/Swift-FF9E0F?style=flat-squaree&logo=Swift&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Objc-FF9E0F?style=flat-squaree&logo=Swift&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Swift-181717?style=flat-squaree&logo=Swift&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Objc-181717?style=flat-squaree&logo=Swift&logoColor=black"/>
     <img src="https://img.shields.io/badge/Python-3766AB?flat-squaree&logo=Python&logoColor=black"/>
-
 <br>
     <img src="https://img.shields.io/badge/Lottie-1AB394?style=flat-squaree&logo=Swift&logoColor=black"/>
     <img src="https://img.shields.io/badge/Snapkit-005386?style=flat-squaree&logo=Swift&logoColor=black"/>
@@ -17,7 +16,7 @@
 <p>
   <img src="https://img.shields.io/badge/GitHub-181717?flat-squaree&logo=Github&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-squaree&logo=Gitlab&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SourceTree-0052CC?style=flat-squaree&logo=Sourcetree&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SourceTree-0052CC?style=flat-squaree&logo=Sourcetree&logoColor=whit"/>
 </p>
 
 ### 📌 Co-WorkTools

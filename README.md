@@ -45,3 +45,4 @@
 - MVVM
 
 ![아이디's github stats](https://github-readme-stats.vercel.app/api?username=isgeekcode&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isgeekcode&layout=compact&theme=compact)

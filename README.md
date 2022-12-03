@@ -8,7 +8,6 @@
     <img src="https://img.shields.io/badge/Swift-F05138?style=flat-squaree&logo=Swift&logoColor=white)"/>
     <img src="https://img.shields.io/badge/Objc-F05138?style=flat-squaree&logo=Swift&logoColor=white)"/>
 <br>
-  <!-- Library -->
     <img src="https://img.shields.io/badge/Lottie-1AB394?style=flat-squaree&logo=Swift&logoColor=white)"/>
     <img src="https://img.shields.io/badge/Snapkit-005386?style=flat-squaree&logo=Swift&logoColor=white)"/>
 <br>

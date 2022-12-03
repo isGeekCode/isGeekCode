@@ -1,16 +1,20 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=FD866E&height=270&section=header&text=Welcome&fontSize=90&fontColor=FFFFFF)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FisGeekCode&count_bg=%23DE7E7E&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### 📌 Tech Stack
 
-![](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white) ![](https://img.shields.io/badge/Objc-F05138?style=flat-squaree&logo=Swift&logoColor=white) ![](https://img.shields.io/badge/Python-3766AB?flat-squaree&logo=Python&logoColor=white)
+![](https://img.shields.io/badge/Swift-F05138?style=flat-squaree&logo=Swift&logoColor=white) ![](https://img.shields.io/badge/Objc-F05138?style=flat-squaree&logo=Swift&logoColor=white) ![](https://img.shields.io/badge/Python-3766AB?flat-squaree&logo=Python&logoColor=white)
+<br>
+![](https://img.shields.io/badge/Lottie-1AB394?style=flat-squaree&logo=Swift&logoColor=white)
+![](https://img.shields.io/badge/Snapkit-005386?style=flat-squaree&logo=Swift&logoColor=white)
 
 ### 📌 Version Control Systems
 
-![](https://img.shields.io/badge/GitHub-181717?flat-square&logo=Github&logoColor=white) ![](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=Gitlab&logoColor=white) ![](https://img.shields.io/badge/SourceTree-0052CC?style=flat-square&logo=Sourcetree&logoColor=whit)
+![](https://img.shields.io/badge/GitHub-181717?flat-squaree&logo=Github&logoColor=white) ![](https://img.shields.io/badge/GitLab-FC6D26?style=flat-squaree&logo=Gitlab&logoColor=white) ![](https://img.shields.io/badge/SourceTree-0052CC?style=flat-squaree&logo=Sourcetree&logoColor=whit)
 
 ### 📌 Co-WorkTools
-
-![](https://img.shields.io/badge/RedMine-B32024?style=flat-square&logo=Redmine&logoColor=white)
+![](https://img.shields.io/badge/RedMine-B32024?style=flat-squaree&logo=Redmine&logoColor=white)
+![](https://img.shields.io/badge/JiraSoftware-0052CC?style=flat-squaree&logo=JiraSoftware&logoColor=white)
+![](https://img.shields.io/badge/Figma-F24E1E?style=flat-squaree&logo=Figma&logoColor=white)
 
 ### 📌 Post
 <!-- BLOG-POST-LIST:START -->

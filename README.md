@@ -5,6 +5,7 @@
 <!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FisGeekCode&count_bg=%23DE7E7E&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)-->
 
 ### 📌 Tech Stack
+<p>
     <img src="https://img.shields.io/badge/Swift-F05138?style=flat-squaree&logo=Swift&logoColor=white)"/>
     <img src="https://img.shields.io/badge/Objc-F05138?style=flat-squaree&logo=Swift&logoColor=white)"/>
 <br>
@@ -12,6 +13,7 @@
     <img src="https://img.shields.io/badge/Snapkit-005386?style=flat-squaree&logo=Swift&logoColor=white)"/>
 <br>
     <img src="https://img.shields.io/badge/Python-3766AB?flat-squaree&logo=Python&logoColor=white)"/>
+</p>
 
 ### 📌 Version Control Systems
 <p>
@@ -25,7 +27,7 @@
   <img src="https://img.shields.io/badge/RedMine-B32024?style=flat-squaree&logo=Redmine&logoColor=white"/>
   <img src="https://img.shields.io/badge/JiraSoftware-0052CC?style=flat-squaree&logo=JiraSoftware&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-squaree&logo=Figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Zeplin-F2B437?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Zeplin-F2B437?style=flat-squaree"/>
 </p>
 
 ### 📌 Post

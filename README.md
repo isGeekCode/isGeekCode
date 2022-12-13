@@ -29,11 +29,11 @@
 
 ### 📌 Post
 <!-- BLOG-POST-LIST:START -->
+- [refresh control  사용하기](https://h1guitar.tistory.com/296)
 - [카톡 유튜브 재생목록  유튜브앱으로 실행하기](https://h1guitar.tistory.com/295)
 - [세로모드 고정](https://h1guitar.tistory.com/294)
 - [클로저 톺아보기](https://h1guitar.tistory.com/293)
 - [1급 객체](https://h1guitar.tistory.com/292)
-- [프로퍼티 옵저버&lpar;willSet / didSet&rpar; - 프로퍼티&lpar;2.5&rpar;](https://h1guitar.tistory.com/291)
 <!-- BLOG-POST-LIST:END -->
 
 

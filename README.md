@@ -29,11 +29,11 @@
 
 ### 📌 Post
 <!-- BLOG-POST-LIST:START -->
+- [UIImage - 경로를 통해 이미지 다운로드하여 동기, 비동기처리하기](https://h1guitar.tistory.com/297)
 - [refresh control  사용하기](https://h1guitar.tistory.com/296)
 - [카톡 유튜브 재생목록  유튜브앱으로 실행하기](https://h1guitar.tistory.com/295)
 - [세로모드 고정](https://h1guitar.tistory.com/294)
 - [클로저 톺아보기](https://h1guitar.tistory.com/293)
-- [1급 객체](https://h1guitar.tistory.com/292)
 <!-- BLOG-POST-LIST:END -->
 
 

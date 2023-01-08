@@ -40,7 +40,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 
-### 📌 Recently interests (2022.May)
+### 📌 Recently interests (2023.Jan)
 
 - MVVM
 - ReactiveX

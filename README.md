@@ -1,8 +1,8 @@
-## I'm Hyeonseok Bang (a.k.a. GeekCode)
+# I'm Hyeonseok Bang (a.k.a. GeekCode)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FisGeekCode&count_bg=%23DE7E7E&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### 📌 Tech Stack
+## Tech Stack
 <p>
     <img src="https://img.shields.io/badge/Swift-white?style=flat-squaree&logo=Swift&logoColor=FC6D26"/>
     <img src="https://img.shields.io/badge/Objc-white?style=flat-squaree&logo=Swift&logoColor=FC6D26"/>
@@ -15,14 +15,14 @@
 
 </p>
 
-### 📌 Version Control Systems
+##  Version Control Systems
 <p>
   <img src="https://img.shields.io/badge/GitHub-181717?flat-squaree&logo=Github&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-squaree&logo=Gitlab&logoColor=white"/>
   <img src="https://img.shields.io/badge/SourceTree-0052CC?style=flat-squaree&logo=Sourcetree&logoColor=whit"/>
 </p>
 
-### 📌 Co-WorkTools
+##  Co-WorkTools
 <p>
   <img src="https://img.shields.io/badge/RedMine-B32024?style=flat-squaree&logo=Redmine&logoColor=white"/>
   <img src="https://img.shields.io/badge/JiraSoftware-0052CC?style=flat-squaree&logo=JiraSoftware&logoColor=white"/>
@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/Zeplin-F2B437?style=flat-squaree"/>
 </p>
 
-### 📌 Post
+##  Post
 <!-- BLOG-POST-LIST:START -->
 - [App의 기본구조](https://h1guitar.tistory.com/301)
 - [ios에서 싱글톤 만들기](https://h1guitar.tistory.com/300)
@@ -40,7 +40,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 
-### 📌 Recently interests (2023.Jan)
+##  Recently interests (2023.Jan)
 
 - MVVM
 - ReactiveX

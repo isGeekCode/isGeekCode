@@ -47,6 +47,7 @@
 - Combine
 
 <!--!![아이디's github stats](https://github-readme-stats.vercel.app/api?username=isgeekcode&show_icons=true) -->
+[![GeekCode's github stats](https://github-readme-stats.vercel.app/api?username=M1zz&count_private=true&custom_title=GeekCode's&nbsp;github&nbsp;👀&bg_color=30,92a8d1,f7cac9&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isgeekcode&layout=compact&custom_title=My&nbsp;Language&nbsp;⌨️&bg_color=30,f7cac9,92a8d1&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 

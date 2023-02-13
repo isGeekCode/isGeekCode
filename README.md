@@ -46,7 +46,10 @@
 - ReactiveX
 - Combine
 
-![아이디's github stats](https://github-readme-stats.vercel.app/api?username=isgeekcode&show_icons=true)
+<!--!![아이디's github stats](https://github-readme-stats.vercel.app/api?username=isgeekcode&show_icons=true) -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isgeekcode&layout=compact&custom_title=My&nbsp;Language&nbsp;⌨️&bg_color=30,f7cac9,92a8d1&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isgeekcode&layout=default&theme=default)-->
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isgeekcode&layout=compact&custom_title=My&nbsp;Language&nbsp;⌨️&bg_color=white&title_color=black&text_color=black)](https://github.com/anuraghazra/github-readme-stats)-->

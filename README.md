@@ -32,11 +32,11 @@
 
 ##  Post
 <!-- BLOG-POST-LIST:START -->
+- [Git - Fork한 레포지토리 최신화 하기](https://h1guitar.tistory.com/304)
+- [깃 리모트 변경 하기](https://h1guitar.tistory.com/303)
 - [ReactorKit - CountApp](https://h1guitar.tistory.com/302)
 - [App의 기본구조](https://h1guitar.tistory.com/301)
 - [ios에서 싱글톤 만들기](https://h1guitar.tistory.com/300)
-- [command line tools are already installed &lpar;사실 git 에러 아님&rpar;](https://h1guitar.tistory.com/299)
-- [swift Array - 빠르게 빈 배열 만들기](https://h1guitar.tistory.com/298)
 <!-- BLOG-POST-LIST:END -->
 
 

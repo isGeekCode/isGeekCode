@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Snapkit-005386?style=flat-squaree&logo=Swift&logoColor=white"/>
     <img src="https://img.shields.io/badge/Gifu-F2B437?style=flat-squaree&logo=Swift&logoColor=white"/>
     <img src="https://img.shields.io/badge/SwiftSoup-ec5c57?style=flat-squaree&logo=Swift&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Kingfisher-1d8dfc?style=flat-squaree&logo=Swift&logoColor=ff612e"/>
+    <img src="https://img.shields.io/badge/Kingfisher-1d8dfc?style=flat-squaree&logo=Swift&logoColor=white"/>
 </p>
 
 ##  Version Control Systems

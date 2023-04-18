@@ -32,11 +32,11 @@
 
 ##  Post
 <!-- BLOG-POST-LIST:START -->
+- [iOS - 배포된 앱을 삭제하는 2가지 방법](https://h1guitar.tistory.com/305)
 - [Git - Fork한 레포지토리 최신화 하기](https://h1guitar.tistory.com/304)
 - [깃 리모트 변경 하기](https://h1guitar.tistory.com/303)
 - [ReactorKit - CountApp](https://h1guitar.tistory.com/302)
 - [App의 기본구조](https://h1guitar.tistory.com/301)
-- [ios에서 싱글톤 만들기](https://h1guitar.tistory.com/300)
 <!-- BLOG-POST-LIST:END -->
 
 

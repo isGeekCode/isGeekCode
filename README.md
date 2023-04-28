@@ -32,11 +32,11 @@
 
 ##  Post
 <!-- BLOG-POST-LIST:START -->
+- [iOS - 코드로 UI를 짜다가 Storyboard파일의 VC 에 연결하기](https://h1guitar.tistory.com/307)
 - [2023년 4월 피드백](https://h1guitar.tistory.com/306)
 - [iOS - 배포된 앱을 삭제하는 2가지 방법](https://h1guitar.tistory.com/305)
 - [Git - Fork한 레포지토리 최신화 하기](https://h1guitar.tistory.com/304)
 - [깃 리모트 변경 하기](https://h1guitar.tistory.com/303)
-- [ReactorKit - CountApp](https://h1guitar.tistory.com/302)
 <!-- BLOG-POST-LIST:END -->
 
 

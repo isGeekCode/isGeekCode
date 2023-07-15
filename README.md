@@ -32,11 +32,11 @@
 
 ##  Post
 <!-- BLOG-POST-LIST:START -->
+- [23년 6월 회고 / 7월 목표](https://h1guitar.tistory.com/312)
 - [생각보다 금방 잊혀져서 적는 대외활동 후기](https://h1guitar.tistory.com/311)
 - [플러터 - 삼각형 모양 View 그리기](https://h1guitar.tistory.com/310)
 - [어떻게 리뷰할 것인가](https://h1guitar.tistory.com/309)
 - [23년 5월 회고 / 6월 목표](https://h1guitar.tistory.com/308)
-- [iOS - 코드로 UI를 짜다가 Storyboard파일의 VC 에 연결하기](https://h1guitar.tistory.com/307)
 <!-- BLOG-POST-LIST:END -->
 
 

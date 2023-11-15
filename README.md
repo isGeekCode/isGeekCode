@@ -32,11 +32,11 @@
 
 ##  Post
 <!-- BLOG-POST-LIST:START -->
+- [23년 10월 회고 / 11월 목표](https://h1guitar.tistory.com/317)
+- [23년 9월 회고 / 10월 목표](https://h1guitar.tistory.com/316)
+- [23년 8월 회고 / 9월 목표](https://h1guitar.tistory.com/315)
 - [23년 7월 회고 / 8월 목표](https://h1guitar.tistory.com/314)
 - [GitHub users are now required to enable two-factor authentication](https://h1guitar.tistory.com/313)
-- [23년 6월 회고 / 7월 목표](https://h1guitar.tistory.com/312)
-- [생각보다 금방 잊혀져서 적는 대외활동 후기](https://h1guitar.tistory.com/311)
-- [플러터 - 삼각형 모양 View 그리기](https://h1guitar.tistory.com/310)
 <!-- BLOG-POST-LIST:END -->
 
 

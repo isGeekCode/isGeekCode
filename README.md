@@ -32,11 +32,11 @@
 
 ##  Post
 <!-- BLOG-POST-LIST:START -->
+- [23년 12월 회고 / 1월 목표](https://h1guitar.tistory.com/319)
+- [23년 11월 회고 / 12월 목표](https://h1guitar.tistory.com/318)
 - [23년 10월 회고 / 11월 목표](https://h1guitar.tistory.com/317)
 - [23년 9월 회고 / 10월 목표](https://h1guitar.tistory.com/316)
 - [23년 8월 회고 / 9월 목표](https://h1guitar.tistory.com/315)
-- [23년 7월 회고 / 8월 목표](https://h1guitar.tistory.com/314)
-- [GitHub users are now required to enable two-factor authentication](https://h1guitar.tistory.com/313)
 <!-- BLOG-POST-LIST:END -->
 
 

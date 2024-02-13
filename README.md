@@ -32,11 +32,11 @@
 
 ##  Post
 <!-- BLOG-POST-LIST:START -->
+- [iOS - 수출 규정 준수 정보에 대하여](https://h1guitar.tistory.com/322)
 - [APN 인증키&lpar;.p8&rpar; 발급받기](https://h1guitar.tistory.com/321)
 - [인증서와 프로비저닝 프로파일관리하기 &lpar;Certificate &amp; Provisioning Profile&rpar;](https://h1guitar.tistory.com/320)
 - [23년 12월 회고 / 1월 목표](https://h1guitar.tistory.com/319)
 - [23년 11월 회고 / 12월 목표](https://h1guitar.tistory.com/318)
-- [23년 10월 회고 / 11월 목표](https://h1guitar.tistory.com/317)
 <!-- BLOG-POST-LIST:END -->
 
 

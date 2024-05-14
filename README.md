@@ -21,7 +21,7 @@
 <p>
   <img src="https://img.shields.io/badge/Firebase-white?flat-squaree&logo=firebase&logoColor=FFCA28"/>
   <img src="https://img.shields.io/badge/FingerPush-0085CA?style=flat-squaree&logo=foursquarecityguide&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SalesForce-0052CC?style=flat-square&logo=salesforce&logoColor=00A1E0"/>
+  <img src="https://img.shields.io/badge/SalesForce-0052CC?style=flat-squaree&logo=salesforce&logoColor=00A1E0"/>
 </p>
 
 

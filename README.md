@@ -1,4 +1,4 @@
-# I'm Hyeonseok Bang (a.k.a. GeekCode)
+# I'm Hyeonseok Bang (GeekCode)
 
 
 ## Tech Stack
@@ -6,6 +6,8 @@
     <img src="https://img.shields.io/badge/Swift-white?style=flat-squaree&logo=Swift&logoColor=FC6D26"/>
     <img src="https://img.shields.io/badge/Objc-white?style=flat-squaree&logo=Swift&logoColor=FC6D26"/>
     <img src="https://img.shields.io/badge/Python-white?flat-squaree&logo=Python&logoColor=3766AB"/>
+    <img src="https://img.shields.io/badge/Flutter-white?flat-squaree&logo=Python&logoColor=3766AB"/>
+
 <br>
     <img src="https://img.shields.io/badge/Lottie-1AB394?style=flat-squaree&logo=Swift&logoColor=white"/>
     <img src="https://img.shields.io/badge/Snapkit-005386?style=flat-squaree&logo=Swift&logoColor=white"/>

@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/Swift-white?style=flat-squaree&logo=Swift&logoColor=FC6D26"/>
     <img src="https://img.shields.io/badge/Objc-white?style=flat-squaree&logo=Swift&logoColor=FC6D26"/>
     <img src="https://img.shields.io/badge/Python-white?flat-squaree&logo=Python&logoColor=3766AB"/>
-    <img src="https://img.shields.io/badge/Dart-white?flat-squaree&logo=Dart&logoColor=0175C2"/>
+    <img src="https://img.shields.io/badge/Dart-white?flat-squaree&logo=Dart&logoColor=199ED9"/>
 <br>
     <img src="https://img.shields.io/badge/Lottie-FC6D26?style=flat-squaree&logo=Swift&logoColor=white"/>
     <img src="https://img.shields.io/badge/Snapkit-FC6D26?style=flat-squaree&logo=Swift&logoColor=white"/>

@@ -14,6 +14,8 @@
     <img src="https://img.shields.io/badge/SwiftSoup-FC6D26?style=flat-squaree&logo=Swift&logoColor=white"/>
     <img src="https://img.shields.io/badge/Kingfisher-FC6D26?style=flat-squaree&logo=Swift&logoColor=white"/>
     <img src="https://img.shields.io/badge/Alamofire-FC6D26?style=flat-squaree&logo=Swift&logoColor=white"/>
+<br>
+    <img src="https://img.shields.io/badge/Dio-199ED9?style=flat-squaree&logo=Flutter&logoColor=white"/>
 
 </p>
 

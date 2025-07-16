@@ -8,7 +8,6 @@
     <img src="https://img.shields.io/badge/Python-white?flat-squaree&logo=Python&logoColor=3766AB"/>
     <img src="https://img.shields.io/badge/Flutter-white?flat-squaree&logo=flutter&logoColor=02569B"/>
 
-<p>
     <img src="https://img.shields.io/badge/Lottie-1AB394?style=flat-squaree&logo=Swift&logoColor=white"/>
     <img src="https://img.shields.io/badge/Snapkit-005386?style=flat-squaree&logo=Swift&logoColor=white"/>
     <img src="https://img.shields.io/badge/Gifu-F2B437?style=flat-squaree&logo=Swift&logoColor=white"/>

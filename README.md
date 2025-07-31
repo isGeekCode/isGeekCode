@@ -44,24 +44,7 @@
   <img src="https://img.shields.io/badge/Zeplin-F2B437?style=flat-squaree"/>
 </p>
 
-##  Post
-<!-- BLOG-POST-LIST:START -->
-- [24년 5월 회고 / 6월 목표](https://h1guitar.tistory.com/326)
-- [swift signum() 메서드 이용하기](https://h1guitar.tistory.com/325)
-- [24년 4월 회고 / 5월 목표](https://h1guitar.tistory.com/324)
-- [ios 개인정보 보호 매니페스트 PrivacyInfo.xcprivacy 만들기](https://h1guitar.tistory.com/323)
-- [iOS - 수출 규정 준수 정보에 대하여](https://h1guitar.tistory.com/322)
-- [APN 인증키&lpar;.p8&rpar; 발급받기](https://h1guitar.tistory.com/321)
-- [인증서와 프로비저닝 프로파일관리하기 &lpar;Certificate &amp; Provisioning Profile&rpar;](https://h1guitar.tistory.com/320)
-- [23년 12월 회고 / 1월 목표](https://h1guitar.tistory.com/319)
-<!-- BLOG-POST-LIST:END -->
 
-
-##  Recently interests (2024.May)
-
-- MVVM
-- ReactiveX
-- Combine
 
 <!--!![아이디's github stats](https://github-readme-stats.vercel.app/api?username=isgeekcode&show_icons=true) -->
 [![GeekCode's github stats](https://github-readme-stats.vercel.app/api?username=M1zz&count_private=true&custom_title=GeekCode's&nbsp;github&nbsp;🍊&bg_color=30,92a8d1,f7cac9&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)  

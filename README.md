@@ -4,6 +4,8 @@
 하이브리드와 크로스플랫폼 환경까지 확장하며 다양한 도메인의 모바일 서비스를 개발·운영해 온 개발자입니다.  
 기술 스택 자체보다 사용자 경험, 구조적인 설계, 운영 안정성을 기준으로 문제를 정의하고 해결하는 방식을 중요하게 생각합니다.
 
+<br><br>
+
 ---
 
 ## About Me
@@ -18,6 +20,8 @@
 - App Attest, DeviceCheck 등 iOS 인증·보안 기능 적용과 배포/인증서 관리 과정에서의 실무 경험을 보유하고 있습니다.
 - 신규 기능 개발뿐 아니라 장애 대응, 운영 이슈 분석, 구조 개선 등 서비스 운영 전반에 익숙합니다.
 - 개발 생산성 향상을 위해 AI 도구를 적극 활용하고 있으며, 개인적으로 AI Agent를 구성해 문서 정리와 반복 작업 자동화에 활용하고 있습니다.
+
+<br><br>
 
 ---
 
@@ -38,6 +42,8 @@ Git, GitLab, GitHub, Jira, Confluence, Redmine
 ### AI 활용
 개발 문서 정리, 히스토리 관리, 구조 설계 보조를 위한 개인 AI Agent 운영
 
+<br><br>
+
 ---
 
 ## What I’m Good At
@@ -47,6 +53,8 @@ Git, GitLab, GitHub, Jira, Confluence, Redmine
 - 운영 중 발생하는 크래시, 네트워크 실패, 캐시/상태 꼬임 이슈에 대한 원인 분석과 재발 방지
 - 인증·보안이 필요한 iOS 기능 적용 및 배포·인증서 흐름에서의 문제 대응
 - 유지보수를 고려한 책임 분리, 의존성 정리, 테스트 가능한 구조로의 리팩토링
+
+<br><br>
 
 ---
 
@@ -63,4 +71,4 @@ Git, GitLab, GitHub, Jira, Confluence, Redmine
 
 ## GitHub Overview
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isgeekcode&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isgeekcode&layout=compact&custom_title=My&nbsp;Language&nbsp;⌨️&bg_color=30,f7cac9,92a8d1&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)

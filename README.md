@@ -40,33 +40,17 @@
 
 ## Tech Stack
 
-<table>
-<tr>
-<td width="50%">
-
 **📱 iOS**  
-Swift, Objective-C  
-UIKit, SwiftUI, Combine
-
-**🔐 iOS Security**  
-App Attest, DeviceCheck  
-인증서·프로비저닝 관리
-
-</td>
-<td width="50%">
+Swift, Objective-C, UIKit, SwiftUI, Combine
 
 **🔄 Cross-Platform**  
-Flutter  
-React Native  
-Ionic
+Flutter, React Native, Ionic
+
+**🔐 iOS Security**  
+App Attest, DeviceCheck, 인증서·프로비저닝 관리
 
 **🛠 Tools**  
-Git, Jira, Confluence  
-n8n (개발 자동화)
-
-</td>
-</tr>
-</table>
+Git, Jira, Confluence, n8n (개발 자동화)
 <br>
 
 ## GitHub Overview

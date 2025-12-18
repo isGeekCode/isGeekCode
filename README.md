@@ -17,7 +17,7 @@
 - 개발 생산성 향상을 위한 AI 도구 활용
 
 
-🔗 [TIL (446 articles)](https://github.com/isGeekCode/TIL) · [개발블로그](링크) · [LinkedIn](링크)
+🔗 [TIL (446 articles)](https://github.com/isGeekCode/TIL) · [개발블로그](https://h1guitar.tistory.com/) · [LinkedIn](https://www.linkedin.com/in/hyeonseok-bang-52b780235/)
 
 
 <br>

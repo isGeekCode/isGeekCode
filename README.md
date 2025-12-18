@@ -10,7 +10,7 @@
 
 ## About Me
 
-- 라드씨엔에스에서 만 4년간 실사용자 기반 모바일 서비스를 개발·운영
+- 라드씨엔에스(RadCNS)에서 4년간 12개 이상의 모바일 앱을 개발·운영
 - 이랜드 그룹 내 패션·외식·리테일 계열 브랜드 앱 담당  
   (뉴발란스, 애슐리, 로이드 등)
 - 하이브리드(WebView) 서비스 운영을 시작으로  
@@ -27,10 +27,12 @@
 | 영역 | 설명 |
 |:---:|---|
 | 네이티브 전환 | WebView/Hybrid 구조에서 iOS 네이티브 기능을 단계적으로 분리·적용 |
-| 구조 판단 | 요구사항·일정·리스크를 기준으로 Web / Native / Cross-platform 방식 제안 |
+| 하이브리드 | 웹 기반 서비스의 iOS 네이티브 연동, JS Bridge 구현, 정책·심사 이슈 대응 |
+| 크로스플랫폼 | Flutter / React Native / Ionic 기반 iOS·Android 앱 빌드·배포 및 스토어 출시 |
 | 운영 안정성 | 크래시, 네트워크 실패, 캐시·상태 불일치 이슈 원인 분석 및 재발 방지 |
-| 보안·정책 | iOS 보안 API, 심사·인증서·정책 변경 대응 |
-| 유지보수 | 책임 분리, 의존성 정리, 테스트 가능한 구조로 리팩토링 |
+| 보안·인증 | App Attest, DeviceCheck 등 iOS 보안 API 적용 및 인증서·프로비저닝 관리 |
+| 코드 품질 | 책임 분리, 의존성 정리, 테스트 가능한 구조로의 리팩토링 |
+
 
 <br>
 
@@ -42,7 +44,6 @@
 | Hybrid / Cross | Flutter, React Native, Ionic, WKWebView, JS Bridge |
 | Network & Data | REST API, JSON, 비동기 처리, 오프라인 캐싱 |
 | Tools | Git, GitLab, GitHub, Jira, Confluence, Redmine |
-| AI 활용 | 문서 정리, 구조 설계 보조, 반복 작업 자동화 |
 
 <br>
 
@@ -60,3 +61,43 @@
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isGeekCode&count_private=true&height=165)](https://github.com/isGeekCode)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isGeekCode&layout=compact&height=165)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## Side Projects
+
+### 🦀 Crab the Beat - Haptic Metronome
+iOS & watchOS 메트로놈 앱
+
+<p align="center">
+  <img src="https://i.imgur.com/STV8mn0.png" width="500"/>
+</p>
+
+
+
+**Tech Stack:** Swift, SwiftUI, WatchConnectivity, Core Haptics  
+**Highlights:**
+- iPhone-Apple Watch 실시간 양방향 통신
+- 햅틱 피드백 기반 메트로놈 엔진 설계
+- 백그라운드 동작 최적화
+- Android 네이티브 병행 개발중
+
+[App Store](https://apps.apple.com/kr/app/crab-the-beat/id6754897451)
+
+---
+
+### 🌸 섬유유연제 이상형 월드컵
+Flutter 기반 크로스플랫폼 앱
+
+<p align="center">
+  <img src="https://i.imgur.com/w0h5npl.png" width="500"/>
+</p>
+
+
+
+**Tech Stack:** Flutter, Dart, iOS/Android  
+**Highlights:**
+- 토너먼트 알고리즘 설계 및 구현
+- Flutter를 활용한 iOS/Android 동시 개발
+
+[App Store](https://apps.apple.com/kr/app/%EC%84%AC%EC%9C%A0%EC%9C%A0%EC%97%B0%EC%A0%9C-%EC%9D%B4%EC%83%81%ED%98%95-%EC%9B%94%EB%93%9C%EC%BB%B5/id6754215805) | [GitHub](https://github.com/isGeekCode/softener-worldcup-app)

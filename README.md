@@ -1,5 +1,12 @@
 ## Hyeonseok Bang
 
+
+<p align="center"><a href="https://h1guitar.tistory.com/"><img width="80%" alt="Hello, I'm . I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+
+<br />
+
+
+
 네이티브 iOS 개발을 기반으로 커리어를 시작해  
 하이브리드·크로스플랫폼 환경까지 확장하며 모바일 서비스를 개발·운영해 온 개발자입니다.
 
@@ -58,5 +65,7 @@
 
 ## GitHub Overview
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isGeekCode&count_private=true)](https://github.com/isGeekCode)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isGeekCode&count_private=true&bg_color=30,92a8d1,f7cac9&title_color=fff&text_color=fff)](https://github.com/isGeekCode)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isgeekcode&layout=compact&custom_title=My&nbsp;Language&nbsp;⌨️&bg_color=30,f7cac9,92a8d1&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+
+

@@ -58,14 +58,5 @@
 
 ## GitHub Overview
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isGeekCode&count_private=true&bg_color=30,92a8d1,f7cac9&title_color=fff&text_color=fff)](https://github.com/isGeekCode)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isgeekcode&layout=compact&custom_title=My&nbsp;Language&nbsp;⌨️&bg_color=30,f7cac9,92a8d1&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isGeekCode&count_private=true&height=165&bg_color=30,92a8d1,f7cac9&title_color=fff&text_color=fff)](https://github.com/isGeekCode)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isGeekCode&layout=compact&height=165&bg_color=30,f7cac9,92a8d1&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
-
-
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isGeekCode&count_private=true&height=165)](https://github.com/isGeekCode)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isGeekCode&layout=compact&height=165)](https://github.com/anuraghazra/github-readme-stats)

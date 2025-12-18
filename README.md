@@ -69,14 +69,16 @@
 ### 🦀 Crab the Beat - Haptic Metronome
 iOS & watchOS 메트로놈 앱
 
+**"소리로만 듣는 메트로놈이 아닌, 손목 진동으로 몸으로 느끼는 박자"**  
+클래식 기타 연습 중 메트로놈 소리가 연주에 묻히거나 밤에 소리를 못 키우는 상황에서  
+Apple Watch 햅틱 피드백으로 박자를 체감할 수 있는 연습 도구를 만들었습니다.
+
+
+
 <p align="center">
   <img src="https://i.imgur.com/STV8mn0.png" width="500"/>
   <img src="https://i.imgur.com/YwTmDQH.gif" width="500"/>
 </p>
-
-**"소리로만 듣는 메트로놈이 아닌, 손목 진동으로 몸으로 느끼는 박자"**  
-클래식 기타 연습 중 메트로놈 소리가 연주에 묻히거나 밤에 소리를 못 키우는 상황에서  
-Apple Watch 햅틱 피드백으로 박자를 체감할 수 있는 연습 도구를 만들었습니다.
 
 
 **Tech Stack:** Swift, SwiftUI, WatchConnectivity, Core Haptics  
@@ -93,13 +95,15 @@ Apple Watch 햅틱 피드백으로 박자를 체감할 수 있는 연습 도구�
 ### 🌸 섬유유연제 이상형 월드컵
 Flutter 기반 크로스플랫폼 앱
 
+**"너무 많은 선택지에서 오는 피로를 놀이로 해결"**  
+마트에서 섬유유연제를 고를 때마다 수십 가지 향을 비교하다 결국 "맨날 사던 거"를 사게 되는  
+반복을 깨고, 이상형 월드컵 방식으로 자신의 향 취향을 재미있게 찾을 수 있도록 기획했습니다.
+
+
 <p align="center">
   <img src="https://i.imgur.com/w0h5npl.png" width="500"/>
 </p>
 
-**"너무 많은 선택지에서 오는 피로를 놀이로 해결"**  
-마트에서 섬유유연제를 고를 때마다 수십 가지 향을 비교하다 결국 "맨날 사던 거"를 사게 되는  
-반복을 깨고, 이상형 월드컵 방식으로 자신의 향 취향을 재미있게 찾을 수 있도록 기획했습니다.
 
 
 **Tech Stack:** Flutter, Dart, iOS/Android  

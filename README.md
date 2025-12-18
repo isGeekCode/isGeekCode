@@ -15,6 +15,8 @@
 - WebView 기반 하이브리드부터 네이티브 iOS까지 폭넓은 개발 경험
 - Flutter, React Native, Ionic 크로스플랫폼 개발 및 스토어 배포
 - 개발 생산성 향상을 위한 AI 도구 활용
+- **[TIL Repository](https://github.com/isGeekCode/TIL) - 446개 iOS/모바일 개발 문서**
+
 
 <br>
 
@@ -51,6 +53,24 @@ iOS 보안 API, 인증서·프로비저닝, 배포 자동화
 Git, Jira, Confluence, n8n
 
 <br>
+
+
+## Contributions & Community
+
+**📚 Documentation**
+- [TIL Repository](링크) - 446 iOS/Mobile development articles
+  - Apple Document translations & guides
+  - Error resolution archives
+  - Sample app implementations
+
+**🎤 Presentations**
+- Let'Swift23 - UIStoryboard Segue (200+ attendees)
+- 부산 iOS - DeviceCheck API & Career Story
+
+**🔧 Open Source**
+- Swift Style Guide Contributor
+- 생활코딩 iOS SwiftUI 교안 제작
+
 
 ## Side Projects
 

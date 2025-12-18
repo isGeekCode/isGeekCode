@@ -12,10 +12,9 @@
 
 **라드씨엔에스(RadCNS)에서 4년간 12개 이상의 모바일 앱 개발·운영**
 - 이랜드 그룹 패션·외식·리테일 브랜드 (뉴발란스, 애슐리, 로이드 등)
-- WebView 기반 서비스에서 iOS 네이티브 기능 개발
-- Flutter, React Native, Ionic 환경에서 iOS/Android 배포 경험
-- App Attest, DeviceCheck 등 iOS 보안 기능 적용
-- 개발 생산성 향상을 위한 AI 도구 활용 (문서 정리, 반복 작업 자동화)
+- WebView 기반 하이브리드부터 네이티브 iOS까지 폭넓은 개발 경험
+- Flutter, React Native, Ionic 크로스플랫폼 개발 및 스토어 배포
+- 개발 생산성 향상을 위한 AI 도구 활용
 
 <br>
 
@@ -33,8 +32,7 @@
 
 **서비스 운영**
 - 12개 이상의 실사용자 기반 앱 유지보수
-- 심사·정책 이슈, 긴급 배포, 장애 대응 경험
-
+- 심사·정책 이슈, 긴급 배포, 장애 대응
 
 <br>
 
@@ -46,12 +44,11 @@ Swift, Objective-C, UIKit, SwiftUI, Combine
 **🔄 Cross-Platform**  
 Flutter, React Native, Ionic
 
-**🔐 iOS Security**  
-App Attest, DeviceCheck, 인증서·프로비저닝 관리
+**🔐 Security & Deployment**  
+iOS 보안 API, 인증서·프로비저닝, 배포 자동화
 
 **🛠 Tools**  
-Git, Jira, Confluence, n8n (개발 자동화)
-
+Git, Jira, Confluence, n8n
 
 <br>
 
@@ -109,6 +106,5 @@ Flutter 기반 크로스플랫폼 앱
 
 ## GitHub Overview
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isGeekCode&count_private=true&height=165)](https://github.com/isGeekCode)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isGeekCode&layout=compact&height=165)](https://github.com/anuraghazra/github-readme-stats)
 

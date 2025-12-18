@@ -59,7 +59,8 @@ Git, Jira, Confluence, n8n (개발 자동화)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isGeekCode&count_private=true&height=165)](https://github.com/isGeekCode)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isGeekCode&layout=compact&height=165)](https://github.com/anuraghazra/github-readme-stats)
 
----
+
+<br>
 
 ## Side Projects
 

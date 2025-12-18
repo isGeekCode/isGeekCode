@@ -52,13 +52,6 @@ App Attest, DeviceCheck, 인증서·프로비저닝 관리
 **🛠 Tools**  
 Git, Jira, Confluence, n8n (개발 자동화)
 
-<br>
-
-## GitHub Overview
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isGeekCode&count_private=true&height=165)](https://github.com/isGeekCode)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isGeekCode&layout=compact&height=165)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <br>
 
@@ -110,3 +103,12 @@ Flutter 기반 크로스플랫폼 앱
 - Flutter를 활용한 iOS/Android 동시 개발
 
 [App Store](https://apps.apple.com/kr/app/%EC%84%AC%EC%9C%A0%EC%9C%A0%EC%97%B0%EC%A0%9C-%EC%9D%B4%EC%83%81%ED%98%95-%EC%9B%94%EB%93%9C%EC%BB%B5/id6754215805) | [GitHub](https://github.com/isGeekCode/softener-worldcup-app)
+
+
+<br>
+
+## GitHub Overview
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isGeekCode&count_private=true&height=165)](https://github.com/isGeekCode)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isGeekCode&layout=compact&height=165)](https://github.com/anuraghazra/github-readme-stats)
+

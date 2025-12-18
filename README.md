@@ -71,6 +71,7 @@ iOS & watchOS 메트로놈 앱
 
 <p align="center">
   <img src="https://i.imgur.com/STV8mn0.png" width="500"/>
+  <img src="https://i.imgur.com/YwTmDQH.gif" width="500"/>
 </p>
 
 

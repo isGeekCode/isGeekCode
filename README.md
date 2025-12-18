@@ -25,7 +25,7 @@
 ## What I’m Good At
 
 | 영역 | 설명 |
-|:---:|:---|
+|:---:|---|
 | 네이티브 전환 | WebView/Hybrid 구조에서 iOS 네이티브 기능을 단계적으로 분리·적용 |
 | 구조 판단 | 요구사항·일정·리스크를 기준으로 Web / Native / Cross-platform 방식 제안 |
 | 운영 안정성 | 크래시, 네트워크 실패, 캐시·상태 불일치 이슈 원인 분석 및 재발 방지 |
@@ -37,7 +37,7 @@
 ## Tech Stack
 
 | Category | Tech |
-|:--------:|:-----|
+|:--------:|-----|
 | iOS | Swift, Objective-C, UIKit, SwiftUI, Combine, CoreData |
 | Hybrid / Cross | Flutter, React Native, Ionic, WKWebView, JS Bridge |
 | Network & Data | REST API, JSON, 비동기 처리, 오프라인 캐싱 |

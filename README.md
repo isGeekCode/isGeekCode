@@ -106,10 +106,3 @@ Flutter 기반 크로스플랫폼 앱
 [App Store](https://apps.apple.com/kr/app/%EC%84%AC%EC%9C%A0%EC%9C%A0%EC%97%B0%EC%A0%9C-%EC%9D%B4%EC%83%81%ED%98%95-%EC%9B%94%EB%93%9C%EC%BB%B5/id6754215805) | [GitHub](https://github.com/isGeekCode/softener-worldcup-app)
 
 
-<br>
-
-## GitHub Overview
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isGeekCode&layout=compact&height=165)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isGeekCode&layout=compact&langs_count=8&cache_seconds=21600)](https://github.com/anuraghazra/github-readme-stats)

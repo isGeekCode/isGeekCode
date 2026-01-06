@@ -112,3 +112,4 @@ Flutter 기반 크로스플랫폼 앱
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isGeekCode&layout=compact&height=165)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isGeekCode&layout=compact&langs_count=8&cache_seconds=21600)](https://github.com/anuraghazra/github-readme-stats)
